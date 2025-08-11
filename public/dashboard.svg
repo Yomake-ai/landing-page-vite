@@ -1,0 +1,83 @@
+<svg viewBox="0 0 1400 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="720" fill="#0F172A"/>
+  
+  <!-- Header -->
+  <rect width="1400" height="60" fill="#1E293B"/>
+  <circle cx="30" cy="30" r="8" fill="#3B82F6"/>
+  <rect x="50" y="22" width="120" height="16" rx="4" fill="#475569"/>
+  <rect x="1200" y="18" width="80" height="24" rx="12" fill="#3B82F6"/>
+  
+  <!-- Sidebar -->
+  <rect width="240" height="660" y="60" fill="#1E293B"/>
+  <rect x="20" y="90" width="200" height="40" rx="8" fill="#3B82F6"/>
+  <rect x="20" y="150" width="200" height="40" rx="8" fill="#334155"/>
+  <rect x="20" y="210" width="200" height="40" rx="8" fill="#334155"/>
+  <rect x="20" y="270" width="200" height="40" rx="8" fill="#334155"/>
+  
+  <!-- Main Content -->
+  <!-- Stats Cards -->
+  <rect x="280" y="100" width="260" height="120" rx="12" fill="#1E293B"/>
+  <rect x="300" y="120" width="80" height="16" rx="4" fill="#475569"/>
+  <text x="300" y="160" font-family="Arial" font-size="28" font-weight="bold" fill="#3B82F6">$124,592</text>
+  <rect x="300" y="180" width="60" height="12" rx="3" fill="#10B981"/>
+  
+  <rect x="560" y="100" width="260" height="120" rx="12" fill="#1E293B"/>
+  <rect x="580" y="120" width="80" height="16" rx="4" fill="#475569"/>
+  <text x="580" y="160" font-family="Arial" font-size="28" font-weight="bold" fill="#8B5CF6">8,492</text>
+  <rect x="580" y="180" width="60" height="12" rx="3" fill="#10B981"/>
+  
+  <rect x="840" y="100" width="260" height="120" rx="12" fill="#1E293B"/>
+  <rect x="860" y="120" width="80" height="16" rx="4" fill="#475569"/>
+  <text x="860" y="160" font-family="Arial" font-size="28" font-weight="bold" fill="#EC4899">64.8%</text>
+  <rect x="860" y="180" width="60" height="12" rx="3" fill="#EF4444"/>
+  
+  <rect x="1120" y="100" width="260" height="120" rx="12" fill="#1E293B"/>
+  <rect x="1140" y="120" width="80" height="16" rx="4" fill="#475569"/>
+  <text x="1140" y="160" font-family="Arial" font-size="28" font-weight="bold" fill="#10B981">432</text>
+  <rect x="1140" y="180" width="60" height="12" rx="3" fill="#10B981"/>
+  
+  <!-- Chart Area -->
+  <rect x="280" y="260" width="820" height="320" rx="12" fill="#1E293B"/>
+  
+  <!-- Chart Title -->
+  <rect x="300" y="280" width="120" height="20" rx="4" fill="#475569"/>
+  
+  <!-- Chart Lines -->
+  <path d="M 320 500 L 420 450 L 520 470 L 620 420 L 720 440 L 820 380 L 920 400 L 1020 360" stroke="#3B82F6" stroke-width="3" fill="none"/>
+  <path d="M 320 500 L 420 480 L 520 490 L 620 460 L 720 470 L 820 440 L 920 450 L 1020 420" stroke="#8B5CF6" stroke-width="3" fill="none"/>
+  
+  <!-- Grid lines -->
+  <line x1="320" y1="340" x2="1060" y2="340" stroke="#334155" stroke-width="1" opacity="0.3"/>
+  <line x1="320" y1="400" x2="1060" y2="400" stroke="#334155" stroke-width="1" opacity="0.3"/>
+  <line x1="320" y1="460" x2="1060" y2="460" stroke="#334155" stroke-width="1" opacity="0.3"/>
+  <line x1="320" y1="520" x2="1060" y2="520" stroke="#334155" stroke-width="1" opacity="0.3"/>
+  
+  <!-- Side Panel -->
+  <rect x="1120" y="260" width="260" height="320" rx="12" fill="#1E293B"/>
+  <rect x="1140" y="280" width="100" height="16" rx="4" fill="#475569"/>
+  
+  <!-- Progress Bars -->
+  <rect x="1140" y="320" width="220" height="8" rx="4" fill="#334155"/>
+  <rect x="1140" y="320" width="176" height="8" rx="4" fill="#3B82F6"/>
+  
+  <rect x="1140" y="360" width="220" height="8" rx="4" fill="#334155"/>
+  <rect x="1140" y="360" width="132" height="8" rx="4" fill="#8B5CF6"/>
+  
+  <rect x="1140" y="400" width="220" height="8" rx="4" fill="#334155"/>
+  <rect x="1140" y="400" width="198" height="8" rx="4" fill="#10B981"/>
+  
+  <rect x="1140" y="440" width="220" height="8" rx="4" fill="#334155"/>
+  <rect x="1140" y="440" width="88" height="8" rx="4" fill="#EC4899"/>
+  
+  <!-- Table -->
+  <rect x="280" y="600" width="1100" height="100" rx="12" fill="#1E293B"/>
+  <rect x="300" y="620" width="1060" height="1" fill="#334155"/>
+  <rect x="300" y="660" width="1060" height="1" fill="#334155"/>
+  
+  <!-- Table Content -->
+  <circle cx="320" cy="640" r="12" fill="#3B82F6"/>
+  <rect x="350" y="632" width="120" height="16" rx="4" fill="#475569"/>
+  <rect x="500" y="632" width="80" height="16" rx="4" fill="#475569"/>
+  <rect x="600" y="632" width="100" height="16" rx="4" fill="#475569"/>
+  <rect x="1280" y="628" width="60" height="24" rx="12" fill="#10B981"/>
+</svg>
